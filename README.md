@@ -85,7 +85,7 @@ Lista de maquiagens cadastradas
 
 C#
 
-.NET (Windows Forms / Console / WPF) – dependendo da versão escolhida
+.NET (Windows Forms ) 
 
 Git / GitHub
 
