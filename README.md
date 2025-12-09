@@ -2,8 +2,7 @@
 
 Aplicação em C# para gerenciamento de maquiagens e marcas
 
-Este projeto é um sistema simples de gerenciamento de maquiagens criado em C#, permitindo que o usuário realize operações essenciais de CRUD.
-Além disso, o sistema possui tela de login, garantindo que apenas usuários cadastrados acessem as funcionalidades internas.
+Este projeto é um sistema simples de gerenciamento de maquiagens criado em C#, o sistema possui tela de login, garantindo que apenas usuários cadastrados acessem as funcionalidades internas.
 
 ✨ Funcionalidades
 🔐 1. Login de Usuário
@@ -52,7 +51,7 @@ Associar facilmente às maquiagens durante o cadastro
 
 🧱 Estrutura do Projeto
 
-O sistema pode ser dividido em:
+🎀O sistema pode ser dividido em:
 
 Classes (Modelos)
 
@@ -72,8 +71,6 @@ Arquivo .txt
 
 Banco de dados SQL
 
-Ou lista em memória (para versão mais simples)
-
 Camada de Interface (UI)
 
 Login
@@ -84,7 +81,7 @@ Formulários para cadastro
 
 Lista de maquiagens cadastradas
 
-🛠️ Tecnologias Utilizadas
+🛠️🎀Tecnologias Utilizadas
 
 C#
 
