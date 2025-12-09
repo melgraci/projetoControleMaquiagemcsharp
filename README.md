@@ -65,9 +65,7 @@ Camada de Dados
 
 Métodos para salvar, procurar, alterar e excluir itens
 
-Pode ser implementado com:
-
-Arquivo .txt
+🎀Pode ser implementado com:
 
 Banco de dados SQL
 
