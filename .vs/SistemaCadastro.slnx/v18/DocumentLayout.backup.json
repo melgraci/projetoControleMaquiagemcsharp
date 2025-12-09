@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\Sistema.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sistema.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\ConectaBanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConectaBanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\Sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\SistemaCadastro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaCadastro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\ConectaBanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConectaBanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Sistema.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\Sistema.Designer.cs",
+              "RelativeDocumentMoniker": "Sistema.Designer.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\Sistema.Designer.cs",
+              "RelativeToolTip": "Sistema.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:12:41.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\Sistema.cs",
+              "RelativeDocumentMoniker": "Sistema.cs",
+              "ToolTip": "C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\Sistema.cs",
+              "RelativeToolTip": "Sistema.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAuwHwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T22:01:17.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -38,44 +63,17 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T22:37:36.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T22:37:36.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Sistema.cs",
-              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\Sistema.cs",
-              "RelativeDocumentMoniker": "Sistema.cs",
-              "ToolTip": "C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\Sistema.cs",
-              "RelativeToolTip": "Sistema.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAuwIcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T22:01:17.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SistemaCadastro.csproj",
-              "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\SistemaCadastro.csproj",
-              "RelativeDocumentMoniker": "SistemaCadastro.csproj",
-              "ToolTip": "C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\SistemaCadastro.csproj",
-              "RelativeToolTip": "SistemaCadastro.csproj",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAmwJcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-08T22:36:51.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ConectaBanco.cs",
               "DocumentMoniker": "C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\ConectaBanco.cs",
               "RelativeDocumentMoniker": "ConectaBanco.cs",
               "ToolTip": "C:\\Users\\melis\\OneDrive\\Desktop\\Meus Arquivos\\ProjetoC#\\SistemaCadastro\\ConectaBanco.cs",
               "RelativeToolTip": "ConectaBanco.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T22:01:29.127Z"
             }

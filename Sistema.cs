@@ -142,9 +142,10 @@ namespace SistemaCadastro
 
         private void bntAddMarca_Click(object sender, EventArgs e)
         {
-            //FrmAddMarca formMarca = new FrmAddMarca();
-           // this.Hide();
-           // formMarca.ShowDialog();
+           FrmAddMarca formMarca = new FrmAddMarca();
+           this.Hide();
+           formMarca.ShowDialog();
+           this.Close();
 
 
 
